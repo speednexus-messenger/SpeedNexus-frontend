@@ -1,4 +1,4 @@
-# SpeedNexus-Client
+# SpeedNexus-frontend
 
 Клиентская часть российского мессенджера SpeedNexus.
 
